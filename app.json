@@ -1,1 +1,7 @@
-
+{
+  "name": "Mirror Sample",
+  "description": "Telgram Mirror Bot",
+  "repository": "https://github.com/Devashish-Rajput/mirror",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["python", "bot", "mirror"]
+}
